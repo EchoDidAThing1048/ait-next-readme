@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 ### **Presented by [Amble Labs](https://amblelabs.github.io)**
@@ -119,7 +121,7 @@ If you have confusion about special blocks you are able to check the items toolt
 <div style="text-align: center; font-size: 1.5em; margin-top: 1em; white-space: nowrap;">
   <a href="https://amblelabs.github.io/ait-wiki/" style="text-decoration: none; color: inherit; display: inline-block; margin: 0 8px;">Wiki</a>
   <span style="display: inline-block; margin: 0 4px;">•</span>
-  <a href="https://github.com/amblelabs/ait/" style="text-decoration: none; color: inherit; display: inline-block; margin: 0 8px;">GitHub</a>
+  <a href="https://github.com/amblelabs/ait-next/" style="text-decoration: none; color: inherit; display: inline-block; margin: 0 8px;">GitHub</a>
   <span style="display: inline-block; margin: 0 4px;">•</span>
   <a href="https://www.curseforge.com/minecraft/mc-mods/adventures-in-time" style="text-decoration: none; color: inherit; display: inline-block; margin: 0 8px;">CurseForge</a>
   <span style="display: inline-block; margin: 0 4px;">•</span>
